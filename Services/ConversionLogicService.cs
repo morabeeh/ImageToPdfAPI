@@ -1,6 +1,5 @@
 ﻿using BitMiracle.LibTiff.Classic;
 using MsgReader.Outlook;
-using SixLabors.ImageSharp.Formats.Jpeg;
 using System.Drawing;
 using System.Drawing.Imaging;
 using Xceed.Words.NET;

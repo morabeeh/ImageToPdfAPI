@@ -1,5 +1,3 @@
-using DinkToPdf;
-using DinkToPdf.Contracts;
 using ImageToPdfAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
