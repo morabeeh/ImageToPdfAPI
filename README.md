@@ -5,7 +5,7 @@ ImageToPdfAPI is a .NET Core Web API service that allows users to convert variou
 ## Table of Contents
 
 - [Features](#Features)
-- [Technologies-Used] (#Technologies Used)
+- [Technologies-Used] (#Technologies-Used)
 - [Prerequisites](#Prerequisites)
 - [Installation-of-Nugget-Packages](#Installation-of-Nugget-Packages)
 - [Setup-and-Usage](#Setup-and-Usage)
