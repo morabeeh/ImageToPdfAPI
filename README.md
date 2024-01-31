@@ -14,8 +14,8 @@ ImageToPdfAPI is a .NET Core Web API service that allows users to convert variou
 ## Features
 
 - Convert TIFF images to PDF.
-- Convert DOCX documents to PDF.
-- Convert MSG files to PDF.
+- Convert DOCX images to PDF.
+- Convert MSG files images to PDF.
 - Supports other image formats like jpeg, png etc for conversion.
 
 ## Technologies-Used
