@@ -5,10 +5,11 @@ ImageToPdfAPI is a .NET Core Web API service that allows users to convert variou
 ## Table of Contents
 
 - [Features](#Features)
-- [TechnologiesUsed](#Technologies Used)
+- [Technologies-Used] (#Technologies Used)
 - [Prerequisites](#Prerequisites)
-- [Installation](#Installation of Nugget Packages)
-- [SetupandUsage](#Setup and Usage)
+- [Installation-of-Nugget-Packages](#Installation-of-Nugget-Packages)
+- [Setup-and-Usage](#Setup-and-Usage)
+- [Contributions](#contributions)
 
 ## Features
 
@@ -17,7 +18,7 @@ ImageToPdfAPI is a .NET Core Web API service that allows users to convert variou
 - Convert MSG files to PDF.
 - Supports other image formats like jpeg, png etc for conversion.
 
-## Technologies Used
+## Technologies-Used
 
 - C#
 - ASP.NET Core
@@ -32,7 +33,7 @@ ImageToPdfAPI is a .NET Core Web API service that allows users to convert variou
 
 Visual Studio,.NET SDK installed on your machine(.NET, .NET Core), Different types of Images(.tiff, .docx, .msg, .png, .jpeg), NuGet Package Manager. 
 
-### Installation of Nugget Packages
+### Installation-of-Nugget-Packages
 Ensure the presence of the following NuGet packages in your project. If any of these packages are missing, install them using the Package Manager Console or Visual Studio NuGet Package Manager.
 
 * PdfSharp library -> Install-Package PdfSharp
@@ -41,7 +42,7 @@ Ensure the presence of the following NuGet packages in your project. If any of t
 * BitMiracle.LibTiff.Net -> Install-Package BitMiracle.LibTiff.Net
 
 
-### Setup and Usage
+### Setup-and-Usage
 
 1. Clone the repository:
 

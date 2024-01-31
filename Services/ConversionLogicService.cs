@@ -117,7 +117,8 @@ namespace ImageToPdfAPI.Services
                     bitmap.Save(jpegStream, ImageFormat.Jpeg);
                 }
 
-            } while (tif.ReadDirectory());
+            } 
+            while (tif.ReadDirectory());
 
             return jpegStream.ToArray();
         }
